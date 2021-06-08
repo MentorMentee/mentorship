@@ -7,18 +7,34 @@ assignees: ''
 
 ---
 
-**Did you complete the basics checklist?**
+__FOR MENTEE'S PURPOSE__
+
+**Please write about yourself (in brief).**
+- Full Name:  ___
+- Education:  ___
+- Coding Experience(Years): ___
+
+**Complete the basics in your favorite programming language.**
 - [ ] Data Structures
 - [ ] Algorithms
 
-**Share the code repository link to basic's practice**
-- [ ] Link
+**Please share the Github code repository link to basic's practice.**
+Repository: ___
 
 **What are the problems that you are facing?**
-A clear and concise description of what you want to happen.
+(A clear and concise description of what you want to happen.)
 
 **How would you solve the problems?**
-A clear and concise description of any alternative solutions that you've considered.
+(A clear and concise description of any alternative solutions that you've considered.)
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Additional context that you would like to add.**
+(Add any other context or screenshots about the feature request here.)
+
+--- 
+
+__FOR MENTORS' PURPOSE__
+
+# Mentee Requirements Fulfillment Checklist 
+- [ ] Github Repository
+- [ ] Data Structures
+- [ ] Algorithms
