@@ -13,6 +13,7 @@ __FOR MENTEE'S PURPOSE__
 - Full Name:  ___
 - Education:  ___
 - Coding Experience(Years): ___
+- Connect me in Linkedin
 
 **Complete the basics in your favorite programming language.**
 - [ ] Data Structures
@@ -38,3 +39,4 @@ __FOR MENTORS' PURPOSE__
 - [ ] Github Repository
 - [ ] Data Structures
 - [ ] Algorithms
+- [ ] Linkedin
