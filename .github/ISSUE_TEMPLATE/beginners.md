@@ -1,7 +1,7 @@
 ---
 name: Beginners
 about: Steps on how to request for mentorship for beginners
-title: ''
+title: "[YOUR_FULL_NAME] Requesting Mentorship As A Beginner"
 labels: beginner
 assignees: ''
 
