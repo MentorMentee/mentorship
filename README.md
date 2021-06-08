@@ -18,6 +18,14 @@ a giving/receiving relationship for everyone
 involved. It is about helping each other to
 expand and grow so that everyone wins.
 
+## Mentor 
+Mentor The mentor’s role is to share experience, 
+insights and feedback that will guide the mentor 
+in the achievement of his or her learning objectives. 
+Listening plays an important part in the mentoring 
+role – listening to understand the mentee’s goals
+and to uncover key learning opportunities that 
+support those goals.
 
 ## Mentee 
 The mentee’s role is to manage the mentoring 
@@ -29,21 +37,15 @@ strengths that will promote the achievement
 of those goals and development areas that 
 may be obstacles.
 
-## Mentor 
-Mentor The mentor’s role is to share experience, 
-insights and feedback that will guide the mentor 
-in the achievement of his or her learning objectives. 
-Listening plays an important part in the mentoring 
-role – listening to understand the mentee’s goals
-and to uncover key learning opportunities that 
-support those goals.
+![image](https://user-images.githubusercontent.com/414141/121238072-6c829680-c8b7-11eb-881b-f8b8aaf35290.png)
 
+
+# Read
 Before requesting for mentorship, please read articles below:
 - https://hbr.org/2017/11/what-mentors-wish-their-mentees-knew
 - https://hbr.org/2020/08/what-efficient-mentorship-looks-like
 - https://www.apa.org/education/grad/mentoring
 - https://cdn2.sph.harvard.edu/wp-content/uploads/sites/31/2015/10/Mentoring_Guide.pdf
 
-![image](https://user-images.githubusercontent.com/414141/121238072-6c829680-c8b7-11eb-881b-f8b8aaf35290.png)
 
 **Make a mentorship request by creating a new issue.**
