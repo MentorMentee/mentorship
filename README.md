@@ -46,4 +46,4 @@ Before requesting for mentorship, please read articles below:
 
 ![image](https://user-images.githubusercontent.com/414141/121238072-6c829680-c8b7-11eb-881b-f8b8aaf35290.png)
 
-**Make a mentorship request by creating a new issue
+**Make a mentorship request by creating a new issue.**
