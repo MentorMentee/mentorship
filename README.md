@@ -1,6 +1,6 @@
 # Mentorship
-![image](https://user-images.githubusercontent.com/414141/123508691-a4982080-d690-11eb-9e98-0a8960f13060.png)
-![image](https://user-images.githubusercontent.com/414141/121236001-2e847300-c8b5-11eb-869e-6f9ee3915d2f.png)
+
+Re![image](https://user-images.githubusercontent.com/414141/123508691-a4982080-d690-11eb-9e98-0a8960f13060.png)
 
 Most successful people can point to one or more 
 people that have been particularly important to 
