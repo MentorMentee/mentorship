@@ -18,7 +18,7 @@ involved. It is about helping each other to
 expand and grow so that everyone wins.
 
 
-[image](https://user-images.githubusercontent.com/414141/123508691-a4982080-d690-11eb-9e98-0a8960f13060.png)
+![image](https://user-images.githubusercontent.com/414141/123508691-a4982080-d690-11eb-9e98-0a8960f13060.png)
 
 
 ## Mentor 
