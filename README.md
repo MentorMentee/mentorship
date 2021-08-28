@@ -1,7 +1,6 @@
+**Make a mentorship request by creating a new issue.**
+
 # Mentorship
-
-Re![image](https://user-images.githubusercontent.com/414141/123508691-a4982080-d690-11eb-9e98-0a8960f13060.png)
-
 Most successful people can point to one or more 
 people that have been particularly important to 
 their growth and development. These people are 
@@ -17,6 +16,10 @@ specific need being addressed, mentoring is
 a giving/receiving relationship for everyone 
 involved. It is about helping each other to
 expand and grow so that everyone wins.
+
+
+[image](https://user-images.githubusercontent.com/414141/123508691-a4982080-d690-11eb-9e98-0a8960f13060.png)
+
 
 ## Mentor 
 Mentor The mentor’s role is to share experience, 
@@ -48,4 +51,3 @@ Before requesting for mentorship, please read articles below:
 - https://cdn2.sph.harvard.edu/wp-content/uploads/sites/31/2015/10/Mentoring_Guide.pdf
 
 
-**Make a mentorship request by creating a new issue.**
