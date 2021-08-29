@@ -42,8 +42,22 @@ may be obstacles.
 
 ![image](https://user-images.githubusercontent.com/414141/121238072-6c829680-c8b7-11eb-881b-f8b8aaf35290.png)
 
+# How To Have An Efficient Conversation With A Mentor
+Time is very limited for both mentor and mentee so the process of conversation must be made as effective as possible especially by the mentee. So before asking any question, do your homework well, do more research, learn from various sources, and finally ask the mentor. 
 
-# Read
+Ask the question clearly by providing as much information and reference possible so that the mentor understands the question precisely. Some tips below:
+
+**What are the problems that you are facing?**
+Write a clear and concise description of what you think should have happened and what actually happened.
+
+**How would you solve the problems?**
+Write a clear and concise description of any alternative solutions that you've considered.
+
+**Additional context that you would like to add.**
+Add any other context or screenshots about the feature request here.
+
+
+# Must Read Resources
 Before requesting for mentorship, please read articles below:
 - https://hbr.org/2017/11/what-mentors-wish-their-mentees-knew
 - https://hbr.org/2020/08/what-efficient-mentorship-looks-like
