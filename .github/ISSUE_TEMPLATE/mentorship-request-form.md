@@ -1,7 +1,7 @@
 ---
 name: Mentorship Request Form
 about: Steps on how to request for mentorship for beginners
-title: YOUR_FULL_NAME Requesting Mentorship
+title: FULL_NAME
 labels: request
 assignees: ''
 
