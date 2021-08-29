@@ -34,15 +34,18 @@ assignees: ''
 ---
 
 # So what happens now?
-You and me, @codeanit, will have a conversation to get to know you a bit more.
+Assign the issue to me, @codeanit.
+![image](https://user-images.githubusercontent.com/414141/131242423-c060187a-c658-4459-aae2-2c935d5369f6.png)
+
+You and I, will have a conversation to get to know each other a bit more.
 
 We will set a date for audio/video conversation via Linkedin chat.
 
-Mentor will take note such as 
-- Mentee's  area of interest.
-- Mentee's level of understanding in the area (Beginner/Intermediate/Advance).
-- A programming language is chosen for the mentorship.
+I will take note such as 
+- Your area of interest.
+- Your level of understanding in the area (Beginner/Intermediate/Advance).
+- And we will choose a programming language for the mentorship.
 
-Mentor will create repository for the mentee where all the progress will be saved.
+I will create a repository for you where all the progress will be stored.
 
 And these notes will be commented in this issue.
