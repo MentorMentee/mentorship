@@ -35,7 +35,7 @@ assignees: ''
 
 # So what happens now?
 Assign the issue to me, @codeanit.
-![image](https://user-images.githubusercontent.com/414141/131242423-c060187a-c658-4459-aae2-2c935d5369f6.png)
+![image](https://user-images.githubusercontent.com/414141/131242600-6efea115-6ba1-4a0a-a857-1ef3526010b4.png)
 
 You and I, will have a conversation to get to know each other a bit more.
 
