@@ -30,3 +30,16 @@ assignees: ''
     - [ ] Android
     - [ ] iOS
     - [ ] Hybrid
+
+---
+
+# So what happens now?
+You and me, @codeanit, will have a conversation to get to know you a bit more.
+- [ ] Set a date for audio/video conversation via Linkedin chat.
+- [ ] Mentor will take note such as 
+  - [ ] Mentee's  area of interest.
+  - [ ] Mentee's level of understanding in the area (Beginner/Intermediate/Advance).
+  - [ ] Programming language choosen for mentorship.
+- [ ] And will create repository for the mentee.
+
+These notes will be commented in this issue.
