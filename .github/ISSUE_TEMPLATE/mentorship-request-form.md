@@ -10,10 +10,10 @@ assignees: ''
 # Mentorship Request Form
 
 ## About Yourself
-- [ ] Full Name: 
-- [ ] Education, Year: 
-- [ ] Coding Experience(Years):
-- [ ] Connect with Anit at https://www.linkedin.com/in/anit 
+- Full Name: 
+- Education, Year: 
+- Coding Experience(Years):
+- Connect with Anit at https://www.linkedin.com/in/anit 
 
 ## Interested Area Of Programming
   - [ ] Backend Programming
