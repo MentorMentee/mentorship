@@ -13,7 +13,7 @@ assignees: ''
 - Full Name: 
 - Education, Year: 
 - Coding Experience(Years):
-- Connect with Anit at https://www.linkedin.com/in/anit 
+- Connect with me at https://www.linkedin.com/in/anit, and mention you are requesting mentorship.
 
 ## Interested Area Of Programming
   - [ ] Backend Programming
