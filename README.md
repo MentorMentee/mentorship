@@ -30,6 +30,8 @@ role – listening to understand the mentee’s goals
 and to uncover key learning opportunities that 
 support those goals.
 
+![image](https://user-images.githubusercontent.com/414141/131355206-865dbb7a-1eff-4216-886c-6534310f8b8b.png)
+
 ## Mentee 
 The mentee’s role is to manage the mentoring 
 partnership. Since the partnership is focused 
