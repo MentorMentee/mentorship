@@ -1,7 +1,7 @@
 # Mentorship Steps For A Beginner
+**This is a full-time commitment5-8 hrs a day. Please make sure you are able to commit time.**
 
 These are the steps in the mentorship monitored by the mentor.
-
 ## 1. Complete Basics (Data Structures, Algorithms, System Knowledge) (~1 Month)
 - [ ] Mentee's Github Repository: ___
 - [ ] Retrospective, Date: ___
