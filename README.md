@@ -33,6 +33,7 @@ Add any other context or screenshots about the feature request here.
 **Before requesting for mentorship, please read articles below**
 - https://hbr.org/2017/11/what-mentors-wish-their-mentees-knew
 - https://hbr.org/2020/08/what-efficient-mentorship-looks-like
+- https://hbr.org/2020/01/how-to-build-a-great-relationship-with-a-mentor
 - https://www.apa.org/education/grad/mentoring
 - https://cdn2.sph.harvard.edu/wp-content/uploads/sites/31/2015/10/Mentoring_Guide.pdf
 
