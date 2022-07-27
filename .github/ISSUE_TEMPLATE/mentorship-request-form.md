@@ -12,8 +12,8 @@ assignees: ''
 ## About Yourself
 - Full Name: 
 - Education, Year: 
-- Coding Experience(Years):
-- Connect with me at https://www.linkedin.com/in/anit, and mention you are requesting mentorship.
+- Programming Experience(Years):
+- [ ] Connect with me at https://www.linkedin.com/in/anit. Kindly, mention you are requesting mentorship.
 
 ## Interested Area Of Programming
   - [ ] Backend Programming
@@ -31,21 +31,13 @@ assignees: ''
     - [ ] iOS
     - [ ] Hybrid
 
----
 
 # So what happens now?
-Assign the issue to me, @codeanit.
-![image](https://user-images.githubusercontent.com/414141/131242600-6efea115-6ba1-4a0a-a857-1ef3526010b4.png)
+- [ ] Assign the issue to me, @anitsh.
 
-You and I, will have a conversation to get to know each other a bit more.
+You and I, will have a conversation to get to know each other a bit more. And we will choose a mentorship model, what suits us the best.
 
-We will set a date for audio/video conversation via Linkedin chat.
+I will create a repository for you where all the progress will be stored. 
 
-I will take note such as 
-- Your area of interest.
-- Your level of understanding in the area (Beginner/Intermediate/Advance).
-- And we will choose a programming language for the mentorship.
+Mentorship begins.
 
-I will create a repository for you where all the progress will be stored.
-
-And these notes will be commented in this issue.
