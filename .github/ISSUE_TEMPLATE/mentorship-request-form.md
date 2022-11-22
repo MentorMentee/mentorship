@@ -15,14 +15,14 @@ assignees: ''
 - Programming Experience(Years):
 - [ ] Connect with me at https://www.linkedin.com/in/anit. Kindly, mention you are requesting mentorship.
 
-## Interested Area Of Programming
+## Interested Area Of Programming (Choose One)
   - [ ] Backend Programming
     - [ ] Java
     - [ ] C#
     - [ ] Golang
     - [ ] Python
     - [ ] PHP
-    - [ ] JavaScript, TypeScript, NodeJS 
+    - [ ] JavaScript, TypeScript (NodeJS) 
   - [ ] Platform Engineering (DevOps, SRE, System)
   - [ ] Frontend Programming (JavaScript, TypeScript, ReactJS, Angular)
   - [ ] Frontend Design (HTML, CSS)
@@ -35,9 +35,8 @@ assignees: ''
 # So what happens now?
 - [ ] Assign the issue to me, @anitsh.
 
-You and I, will have a conversation to get to know each other a bit more. And we will choose a mentorship model, what suits us the best.
+You and I will get to know each other a bit more and we will choose a mentorship model that suits us the best :)
 
 I will create a repository for you where all the progress will be stored. 
 
-Mentorship begins.
-
+Mentorship begins. YAY!
